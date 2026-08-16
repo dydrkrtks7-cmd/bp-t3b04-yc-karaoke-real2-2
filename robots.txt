@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gongdeok-fullsalon-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://gongdeok-fullsalon-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
